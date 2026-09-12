@@ -1,0 +1,9 @@
+com\example\ticketing\TicketingApplication.class
+com\example\ticketing\service\TicketService.class
+com\example\ticketing\controller\TicketController.class
+com\example\ticketing\repository\TicketRepository.class
+com\example\ticketing\model\Ticket.class
+com\example\ticketing\model\Status.class
+com\example\ticketing\model\Priority.class
+com\example\ticketing\service\TicketServiceImpl.class
+com\example\ticketing\config\WebConfig.class
